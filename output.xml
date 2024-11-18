@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.12.1 on win32)" generated="2024-06-24T17:50:15.419987" rpa="false" schemaversion="5">
+<suite id="s1" name="WindowHandleDemo" source="C:\Users\Admin\PycharmProjects\RobotFramework\TestCasess\WindowHandleDemo.robot">
+<test id="s1-t1" name="Handling Windows" line="5">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2024-06-24T17:50:15.657894" level="INFO">Opening browser 'chrome' to base url 'https://demo.automationtesting.in/Windows.html'.</msg>
+<arg>https://demo.automationtesting.in/Windows.html</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2024-06-24T17:50:15.657894" elapsed="4.974338"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2024-06-24T17:50:20.633651" elapsed="0.057282"/>
+</kw>
+<kw name="Click Link" owner="SeleniumLibrary">
+<msg time="2024-06-24T17:50:20.692932" level="INFO">Clicking link 'xpath://a[text()='Open New Tabbed Windows ']'.</msg>
+<arg>xpath://a[text()='Open New Tabbed Windows ']</arg>
+<doc>Clicks a link identified by ``locator``.</doc>
+<status status="PASS" start="2024-06-24T17:50:20.691935" elapsed="0.086350"/>
+</kw>
+<status status="PASS" start="2024-06-24T17:50:15.656476" elapsed="5.122903"/>
+</test>
+<status status="PASS" start="2024-06-24T17:50:15.421024" elapsed="5.360660"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="WindowHandleDemo">WindowHandleDemo</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,15 @@
+1719205771305	geckodriver	INFO	Listening on 127.0.0.1:57540
+1719205774776	mozrunner::runner	INFO	Running command: "C:\\Users\\Admin\\.cache\\selenium\\firefox\\win64\\127.0.1\\firefox.exe" "--marionette" "--remote-debuggin ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileteAXIn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719205776706	Marionette	INFO	Marionette enabled
+1719205776983	Marionette	INFO	Listening on port 57598
+WebDriver BiDi listening on ws://127.0.0.1:57541
+Read port: 57598
+1719205777256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57541/devtools/browser/708dd1e5-2be8-4ac5-89a4-595a50fa976a
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1719205785497	Marionette	INFO	Stopped listening on port 57598
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

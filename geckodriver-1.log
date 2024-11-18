@@ -1,0 +1,31 @@
+1718780312437	geckodriver	INFO	Listening on 127.0.0.1:61172
+1718780315853	mozrunner::runner	INFO	Running command: "C:\\Users\\Admin\\.cache\\selenium\\firefox\\win64\\127.0\\firefox.exe" "--marionette" "--remote-debugging- ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileB1T55f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718780317762	Marionette	INFO	Marionette enabled
+1718780318005	Marionette	INFO	Listening on port 61194
+WebDriver BiDi listening on ws://127.0.0.1:61173
+Read port: 61194
+1718780318350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61173/devtools/browser/fa104312-836f-4127-8b14-ca18afc45691
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718780326820	Marionette	INFO	Stopped listening on port 61194
+JavaScript warning: https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0, line 2: Script terminated by timeout at:
+@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:2688
+@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:220
+@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:225
+
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2Fpage-not-found line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2Fpage-not-found line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2Fpage-not-found line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2Fpage-not-found line 1 > injectedScript, line 5: TypeError: AjaxCart is undefined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2Fpage-not-found line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2Fpage-not-found line 1 > injectedScript, line 57: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2Fpage-not-found line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnurl=%2Fpage-not-found line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
